@@ -1,0 +1,30 @@
+c:\users\ilkcan dogan\source\repos\ResimKarsilastirma\ResimKarsilastirma\bin\Debug\ResimKarsilastirma.exe.config
+c:\users\ilkcan dogan\source\repos\ResimKarsilastirma\ResimKarsilastirma\bin\Debug\ResimKarsilastirma.exe
+c:\users\ilkcan dogan\source\repos\ResimKarsilastirma\ResimKarsilastirma\bin\Debug\ResimKarsilastirma.pdb
+c:\users\ilkcan dogan\source\repos\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.csprojResolveAssemblyReference.cache
+c:\users\ilkcan dogan\source\repos\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.Form1.resources
+c:\users\ilkcan dogan\source\repos\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.Properties.Resources.resources
+c:\users\ilkcan dogan\source\repos\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.csproj.GenerateResource.cache
+c:\users\ilkcan dogan\source\repos\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.csproj.CoreCompileInputs.cache
+c:\users\ilkcan dogan\source\repos\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.exe
+c:\users\ilkcan dogan\source\repos\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.pdb
+C:\Users\ILKCAN DOGAN\Desktop\ResimKarsilastirma\ResimKarsilastirma\bin\Debug\ResimKarsilastirma.exe.config
+C:\Users\ILKCAN DOGAN\Desktop\ResimKarsilastirma\ResimKarsilastirma\bin\Debug\ResimKarsilastirma.exe
+C:\Users\ILKCAN DOGAN\Desktop\ResimKarsilastirma\ResimKarsilastirma\bin\Debug\ResimKarsilastirma.pdb
+C:\Users\ILKCAN DOGAN\Desktop\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.csprojResolveAssemblyReference.cache
+C:\Users\ILKCAN DOGAN\Desktop\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.Form1.resources
+C:\Users\ILKCAN DOGAN\Desktop\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.Properties.Resources.resources
+C:\Users\ILKCAN DOGAN\Desktop\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.csproj.GenerateResource.cache
+C:\Users\ILKCAN DOGAN\Desktop\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.csproj.CoreCompileInputs.cache
+C:\Users\ILKCAN DOGAN\Desktop\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.exe
+C:\Users\ILKCAN DOGAN\Desktop\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.pdb
+D:\Yeni klasör\7) Yazılım Projeleri\ResimKarsilastirma\ResimKarsilastirma\ResimKarsilastirma\bin\Debug\ResimKarsilastirma.exe.config
+D:\Yeni klasör\7) Yazılım Projeleri\ResimKarsilastirma\ResimKarsilastirma\ResimKarsilastirma\bin\Debug\ResimKarsilastirma.exe
+D:\Yeni klasör\7) Yazılım Projeleri\ResimKarsilastirma\ResimKarsilastirma\ResimKarsilastirma\bin\Debug\ResimKarsilastirma.pdb
+D:\Yeni klasör\7) Yazılım Projeleri\ResimKarsilastirma\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.csprojAssemblyReference.cache
+D:\Yeni klasör\7) Yazılım Projeleri\ResimKarsilastirma\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.Form1.resources
+D:\Yeni klasör\7) Yazılım Projeleri\ResimKarsilastirma\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.Properties.Resources.resources
+D:\Yeni klasör\7) Yazılım Projeleri\ResimKarsilastirma\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.csproj.GenerateResource.cache
+D:\Yeni klasör\7) Yazılım Projeleri\ResimKarsilastirma\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.csproj.CoreCompileInputs.cache
+D:\Yeni klasör\7) Yazılım Projeleri\ResimKarsilastirma\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.exe
+D:\Yeni klasör\7) Yazılım Projeleri\ResimKarsilastirma\ResimKarsilastirma\ResimKarsilastirma\obj\Debug\ResimKarsilastirma.pdb
